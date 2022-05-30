@@ -1,0 +1,11 @@
+
+Q
+java:S2696*"6Make the enclosing method "static" or remove this set.(ý©¶´ýÿÿÿÿ
+C
+java:S16043"(Make this anonymous inner class a lambda(±æÿÚýÿÿÿÿ
+C
+java:S1604H"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ
+h
+java:S1104"RMake codcli a static final constant or non-public and provide accessors if needed.(ÉçÝµ
+B
+java:S1444",Make this "public static codcli" field final(ÉçÝµ

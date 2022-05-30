@@ -1,0 +1,195 @@
+
+i	java:S116C"TRename this field "STARTHOUR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ°Ó¨
+i	java:S116J"ORename this field "aÃ±o" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üå×Ôúÿÿÿÿ
+7
+java:S1170C"!Make this final field static too.(Õ°Ó¨
+d
+java:S1659;"IDeclare "edtMarcaPost" and all following declarations on a separate line.(ÖÁ¿øÿÿÿÿ
+`
+java:S1659<"JDeclare "btnsavecarAct" and all following declarations on a separate line.(èªÿ”
+]
+java:S1659?"HDeclare "spinnerTime" and all following declarations on a separate line.(ı–†{
+[
+java:S1659J"@Declare "mes" and all following declarations on a separate line.(üå×Ôúÿÿÿÿ
+n
+java:S1450J"SRemove the "aÃ±o" field and declare it as a local variable in the relevant methods.(üå×Ôúÿÿÿÿ
+m
+java:S1450J"RRemove the "dia" field and declare it as a local variable in the relevant methods.(üå×Ôúÿÿÿÿ
+m
+java:S1450J"RRemove the "mes" field and declare it as a local variable in the relevant methods.(üå×Ôúÿÿÿÿ
+U
+java:S1854á">Remove this useless assignment to local variable "jsonObject".(ÅãÜ
+F
+java:S1481á"/Remove this unused "jsonObject" local variable.(ÅãÜ
+
+java:S1186õ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(£µ¢›ÿÿÿÿÿ
+U
+java:S1854­">Remove this useless assignment to local variable "jsonObject".(ÅãÜ
+F
+java:S1481­"/Remove this unused "jsonObject" local variable.(ÅãÜ
+
+java:S1186À"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(£µ¢›ÿÿÿÿÿ
+U
+java:S1854Ó">Remove this useless assignment to local variable "jsonObject".(ÅãÜ
+F
+java:S1481Ó"/Remove this unused "jsonObject" local variable.(ÅãÜ
+
+java:S1186å"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(£µ¢›ÿÿÿÿÿ
+U
+java:S1854ø">Remove this useless assignment to local variable "jsonObject".(ÅãÜ
+F
+java:S1481ø"/Remove this unused "jsonObject" local variable.(ÅãÜ
+
+java:S1186Œ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(£µ¢›ÿÿÿÿÿ
+i	java:S100•"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò±Äÿıÿÿÿÿ
+
+java:S1186´"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(£µ¢›ÿÿÿÿÿ
+L
+java:S1874Á"6Remove this use of "ProgressDialog"; it is deprecated.(•’è
+L
+java:S1874Á"6Remove this use of "ProgressDialog"; it is deprecated.(•’è
+I
+java:S1874Â"2Remove this use of "setMessage"; it is deprecated.(Êü¹¡
+L
+java:S1874ô"6Remove this use of "ProgressDialog"; it is deprecated.(•’è
+L
+java:S1874ô"6Remove this use of "ProgressDialog"; it is deprecated.(•’è
+I
+java:S1874õ"2Remove this use of "setMessage"; it is deprecated.(Êü¹¡
+L
+java:S1874«"6Remove this use of "ProgressDialog"; it is deprecated.(•’è
+L
+java:S1874«"6Remove this use of "ProgressDialog"; it is deprecated.(•’è
+I
+java:S1874¬"2Remove this use of "setMessage"; it is deprecated.(Êü¹¡
+L
+java:S1874å"6Remove this use of "ProgressDialog"; it is deprecated.(•’è
+L
+java:S1874å"6Remove this use of "ProgressDialog"; it is deprecated.(•’è
+I
+java:S1874æ"2Remove this use of "setMessage"; it is deprecated.(Êü¹¡
+L
+java:S1874¥"6Remove this use of "ProgressDialog"; it is deprecated.(•’è
+L
+java:S1874¥"6Remove this use of "ProgressDialog"; it is deprecated.(•’è
+I
+java:S1874¦"2Remove this use of "setMessage"; it is deprecated.(Êü¹¡
+L
+java:S1874á"6Remove this use of "ProgressDialog"; it is deprecated.(•’è
+L
+java:S1874á"6Remove this use of "ProgressDialog"; it is deprecated.(•’è
+I
+java:S1874â"2Remove this use of "setMessage"; it is deprecated.(Êü¹¡
+@
+java:S1905›")Remove this unnecessary cast to "String".(íñå
+d	java:S100¡"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š¬ãŞ
+p
+java:S2293×"YReplace the type specification in this constructor call with the diamond operator ("<>").(‡Ÿ•Ô
+u
+java:S2293ê"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ü×²¾şÿÿÿÿ
+u
+java:S2293£"YReplace the type specification in this constructor call with the diamond operator ("<>").(ò€Ò³şÿÿÿÿ
+p
+java:S2293µ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÖØÜ
+u
+java:S2293É"YReplace the type specification in this constructor call with the diamond operator ("<>").(ò€Ò³şÿÿÿÿ
+p
+java:S2293Ú"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÖØÜ
+p
+java:S2293î"YReplace the type specification in this constructor call with the diamond operator ("<>").(‡Ÿ•Ô
+u
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ü×²¾şÿÿÿÿ
+p
+java:S2293˜"YReplace the type specification in this constructor call with the diamond operator ("<>").(‡Ÿ•Ô
+]
+java:S1192Ò"GDefine a constant instead of duplicating this literal "estado" 4 times.(ÈĞà0
+›
+java:S1192¢"Define a constant instead of duplicating this literal "http://carwash.sisalvarez.com/appFiles/registrarReservaAct.php" 4 times.(¥šŞÜıÿÿÿÿ
+p
+java:S1192Ó"TDefine a constant instead of duplicating this literal "No se pudo insertar" 6 times.(Îò¶€üÿÿÿÿ
+f
+java:S1192·"PDefine a constant instead of duplicating this literal "Datos correctos" 4 times.(Ó¯®D
+_
+java:S1192Ñ"HDefine a constant instead of duplicating this literal "vehicle" 4 times.(ëã’¤
+n
+java:S1192ƒ"WDefine a constant instead of duplicating this literal "<Selecciona una fecha>" 3 times.(ƒ¸å
+b
+java:S1192l"GDefine a constant instead of duplicating this literal "codcli" 7 times.(ı©¶´ıÿÿÿÿ
+^
+java:S1192Î"GDefine a constant instead of duplicating this literal "idhour" 4 times.(ã–¤ò
+`
+java:S1192Â"IDefine a constant instead of duplicating this literal "Cargando" 6 times.(Êü¹¡
+b
+java:S1192Í"FDefine a constant instead of duplicating this literal "dates" 4 times.(ëîê³ûÿÿÿÿ
+`
+java:S1192m"JDefine a constant instead of duplicating this literal "idservice" 5 times.(ıÏÖ
+y
+java:S1192¯"]Define a constant instead of duplicating this literal "Seleccionar todos los campos" 4 times.(”¶Î”şÿÿÿÿ
+n
+java:S1192Ì"RDefine a constant instead of duplicating this literal "registro correcto" 6 times.(÷¿òüÿÿÿÿ
+>
+java:S1604|"(Make this anonymous inner class a lambda(¾û·í
+C
+java:S1604v"(Make this anonymous inner class a lambda(ÍñÇÑşÿÿÿÿ
+?
+java:S1604’"(Make this anonymous inner class a lambda(¾û·í
+?
+java:S1604œ"(Make this anonymous inner class a lambda(¾û·í
+?
+java:S1604‹"(Make this anonymous inner class a lambda(°Ãù
+?
+java:S1604­"(Make this anonymous inner class a lambda(¾û·í
+?
+java:S1604·"(Make this anonymous inner class a lambda(¾û·í
+D
+java:S1604¦"(Make this anonymous inner class a lambda(Å¶œğûÿÿÿÿ
+?
+java:S1604Ä"(Make this anonymous inner class a lambda(˜çÁ³
+?
+java:S1604Ê"(Make this anonymous inner class a lambda(óÉ€“
+D
+java:S1604Ù"(Make this anonymous inner class a lambda(±æÿÚıÿÿÿÿ
+D
+java:S1604ó"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ
+D
+java:S1604¥"(Make this anonymous inner class a lambda(±æÿÚıÿÿÿÿ
+D
+java:S1604¾"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ
+D
+java:S1604Ë"(Make this anonymous inner class a lambda(±æÿÚıÿÿÿÿ
+D
+java:S1604ã"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ
+D
+java:S1604ğ"(Make this anonymous inner class a lambda(±æÿÚıÿÿÿÿ
+D
+java:S1604Š"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ
+D
+java:S1604›"(Make this anonymous inner class a lambda(±æÿÚıÿÿÿÿ
+D
+java:S1604²"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ
+?
+java:S1604É"(Make this anonymous inner class a lambda(’ÀÈœ
+D
+java:S1604×"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ
+?
+java:S1604ü"(Make this anonymous inner class a lambda(’ÀÈœ
+D
+java:S1604Š"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ
+?
+java:S1604³"(Make this anonymous inner class a lambda(’ÀÈœ
+D
+java:S1604Â"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ
+?
+java:S1604í"(Make this anonymous inner class a lambda(’ÀÈœ
+D
+java:S1604ÿ"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ
+?
+java:S1604®"(Make this anonymous inner class a lambda(’ÀÈœ
+D
+java:S1604½"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ
+?
+java:S1604é"(Make this anonymous inner class a lambda(’ÀÈœ
+D
+java:S1604ú"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ
+w
+java:S1488›"`Immediately return this expression instead of assigning it to the temporary variable "fechaact".(íñå

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ProfileActivity">
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:background="#E91E63" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:background="@drawable/ic_wave__1_"
+        android:layout_marginTop="150dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+        android:layout_marginTop="197dp">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Perfil"
+            android:textColor="@color/black"
+            android:textSize="35dp"
+            android:textStyle="bold"
+            android:letterSpacing="0.03"/>
+
+        <EditText
+            android:id="@+id/edtNombre"
+            android:layout_width="300dp"
+            android:layout_height="45dp"
+            android:background="@drawable/forget_profile"
+            android:hint="Nombres"
+            android:textColor="#000000"
+            android:textColorHint="@color/black"
+            android:textStyle="bold"
+            android:textSize="18dp"
+            android:inputType="text"
+            android:layout_marginTop="20dp"
+            android:paddingLeft="20dp"/>
+
+        <EditText
+            android:id="@+id/edtApellido"
+            android:layout_width="300dp"
+            android:layout_height="45dp"
+            android:background="@drawable/forget_profile"
+            android:hint="Apellidos"
+            android:textColor="#000000"
+            android:textColorHint="@color/black"
+            android:textStyle="bold"
+            android:textSize="18dp"
+            android:inputType="text"
+            android:layout_marginTop="20dp"
+            android:paddingLeft="20dp"/>
+
+        <EditText
+            android:id="@+id/edtTelefono"
+            android:layout_width="300dp"
+            android:layout_height="45dp"
+            android:background="@drawable/forget_profile"
+            android:hint="Telefono"
+            android:textColor="#000000"
+            android:textColorHint="@color/black"
+            android:textStyle="bold"
+            android:textSize="18dp"
+            android:inputType="numberSigned"
+            android:layout_marginTop="20dp"
+            android:paddingLeft="20dp"/>
+
+        <EditText
+            android:id="@+id/edtNumdoc"
+            android:layout_width="300dp"
+            android:layout_height="45dp"
+            android:background="@drawable/forget_profile"
+            android:hint="Numero de Documento"
+            android:textColor="#000000"
+            android:textColorHint="@color/black"
+            android:textStyle="bold"
+            android:textSize="18dp"
+            android:layout_marginTop="20dp"
+            android:inputType="numberSigned"
+            android:paddingLeft="20dp"/>
+
+        <EditText
+            android:id="@+id/edtEmail"
+            android:layout_width="300dp"
+            android:layout_height="45dp"
+            android:background="@drawable/forget_profile"
+            android:hint="Email"
+            android:textColor="#000000"
+            android:textColorHint="@color/black"
+            android:textStyle="bold"
+            android:textSize="18dp"
+            android:inputType="textEmailAddress"
+            android:layout_marginTop="20dp"
+            android:paddingLeft="20dp"/>
+
+        <EditText
+            android:id="@+id/edtPassword"
+            android:layout_width="300dp"
+            android:layout_height="45dp"
+            android:background="@drawable/forget_profile"
+            android:hint="Contraseña"
+            android:textColor="#000000"
+            android:textColorHint="@color/black"
+            android:textStyle="bold"
+            android:textSize="18dp"
+            android:inputType="textPassword"
+            android:layout_marginTop="20dp"
+            android:paddingLeft="20dp"/>
+
+        <Button
+            android:id="@+id/btnActualizar"
+            android:layout_width="350dp"
+            android:layout_height="50dp"
+            android:background="@drawable/button"
+            android:text="Actualizar"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:textColor="#FFF"
+            android:layout_marginTop="25dp"/>
+
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:textAlignment="center"
+        android:layout_gravity="center|top"
+        android:layout_marginTop="25dp"
+        android:src="@drawable/profile"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/comfortaa_light"
+        android:text="Editar Perfil"
+        android:textColor="@color/white"
+        android:layout_gravity="center|top"
+        android:layout_marginTop="8dp"
+        android:textSize="30dp"
+        android:textStyle="bold" />
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

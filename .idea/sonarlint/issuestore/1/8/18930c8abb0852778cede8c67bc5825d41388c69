@@ -1,0 +1,19 @@
+
+=	java:S131B""Add a default case to this switch.(ìúÇV8…šµ€0
+i	java:S100S"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß£Ã8ğÅ˜µ€0
+C
+java:S1659Œ"%Declare "tvmarca" on a separate line.(Âµ§8öÅ˜µ€0
+E
+java:S1604>"(Make this anonymous inner class a lambda(èñ†8›šµ€0
+>
+java:S16047"(Make this anonymous inner class a lambda(ïßç×
+J
+java:S1604X"(Make this anonymous inner class a lambda(„ŸÑ§ÿÿÿÿÿ8úÅ˜µ€0
+J
+java:S1604f"(Make this anonymous inner class a lambda(±æÿÚıÿÿÿÿ8¼§µ€0
+J
+java:S1604y"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ8‘¼§µ€0
+g
+java:S1301B"KReplace this "switch" statement by "if" statements to increase readability.(ìúÇV8œšµ€0
+<
+java:S1700"Rename field "viewHolder"(üğõ™üÿÿÿÿ8ûÅ˜µ€0

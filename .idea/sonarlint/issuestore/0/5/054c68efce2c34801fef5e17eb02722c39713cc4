@@ -1,0 +1,102 @@
+
+r
+java:S3008."WRename this field "ListReservas" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó¾¦ùÿÿÿÿ
+w
+java:S1845."\Rename field "ListReservas" to prevent any misunderstanding/clash with field "listreservas".(Ó¾¦ùÿÿÿÿ
+`
+java:S1659'"EDeclare "fabacept" and all following declarations on a separate line.(’µüúÿÿÿÿ
+[
+java:S1659/"EDeclare "rycAcept" and all following declarations on a separate line.(ïèì
+B
+java:S2386I"'Make member "listreservas" "protected".(ªî ¦şÿÿÿÿ
+Q
+java:S2696I"6Make the enclosing method "static" or remove this set.(ªî ¦şÿÿÿÿ
+@
+java:S2386J",Make member "listreservasAcept" "protected".(¢Ü
+J
+java:S2696J"6Make the enclosing method "static" or remove this set.(¢Ü
+A
+java:S2386K"+Make member "listreservasPend" "protected".(Ô‰×î
+L
+java:S2696K"6Make the enclosing method "static" or remove this set.(Ô‰×î
+L
+java:S2696L"6Make the enclosing method "static" or remove this set.(Ò¿Ş¯
+
+java:S1186œ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(£µ¢›ÿÿÿÿÿ
+
+java:S1186Æ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(£µ¢›ÿÿÿÿÿ
+
+java:S1186ñ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(£µ¢›ÿÿÿÿÿ
+i	java:S100ø"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç ™úÿÿÿÿ
+
+java:S1186‘"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(£µ¢›ÿÿÿÿÿ
+d	java:S100˜"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ÄŞş
+
+java:S1186±"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(£µ¢›ÿÿÿÿÿ
+d	java:S100¸"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷Ï‘Ö
+
+java:S1186Ò"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(£µ¢›ÿÿÿÿÿ
+c
+java:S1192Š"GDefine a constant instead of duplicating this literal "estado" 3 times.(ñó€şÿÿÿÿ
+i
+java:S1192ˆ"MDefine a constant instead of duplicating this literal "hora_reserva" 3 times.(›‚ä˜úÿÿÿÿ
+e
+java:S1192‡"NDefine a constant instead of duplicating this literal "fecha_reserva" 3 times.(úÂ£’
+j
+java:S1192‰"NDefine a constant instead of duplicating this literal "precioservice" 3 times.(úĞ´ôûÿÿÿÿ
+e
+java:S1192‹"IDefine a constant instead of duplicating this literal "vehiculo" 3 times.(ÿ†±¥øÿÿÿÿ
+e
+java:S1192†"NDefine a constant instead of duplicating this literal "nombreService" 3 times.(’ïçº
+b
+java:S11929"GDefine a constant instead of duplicating this literal "codcli" 4 times.(ı©¶´ıÿÿÿÿ
+™
+java:S1192ù"}Define a constant instead of duplicating this literal "http://carwash.sisalvarez.com/appFiles/getNumReg.php?codcli=" 3 times.(û§…öıÿÿÿÿ
+c
+java:S1192…"GDefine a constant instead of duplicating this literal "idbook" 3 times.(¢š£”üÿÿÿÿ
+C
+java:S1604Q"(Make this anonymous inner class a lambda(œİ²ıÿÿÿÿ
+>
+java:S1604^"(Make this anonymous inner class a lambda(²¾ƒö
+>
+java:S1604j"(Make this anonymous inner class a lambda(²‘Üê
+C
+java:S1604{"(Make this anonymous inner class a lambda(±æÿÚıÿÿÿÿ
+D
+java:S1604š"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ
+D
+java:S1604¦"(Make this anonymous inner class a lambda(±æÿÚıÿÿÿÿ
+D
+java:S1604Ä"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ
+D
+java:S1604Ğ"(Make this anonymous inner class a lambda(±æÿÚıÿÿÿÿ
+D
+java:S1604ï"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ
+D
+java:S1604ü"(Make this anonymous inner class a lambda(±æÿÚıÿÿÿÿ
+D
+java:S1604"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ
+D
+java:S1604œ"(Make this anonymous inner class a lambda(±æÿÚıÿÿÿÿ
+D
+java:S1604¯"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ
+D
+java:S1604¼"(Make this anonymous inner class a lambda(±æÿÚıÿÿÿÿ
+D
+java:S1604Ğ"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ
+s
+java:S1104+"XMake listreservas a static final constant or non-public and provide accessors if needed.(Òıîóşÿÿÿÿ
+s
+java:S1104,"]Make listreservasAcept a static final constant or non-public and provide accessors if needed.(‘ï¬â
+w
+java:S1104-"\Make listreservasPend a static final constant or non-public and provide accessors if needed.(‰£ÇŠøÿÿÿÿ
+s
+java:S1104."XMake ListReservas a static final constant or non-public and provide accessors if needed.(Ó¾¦ùÿÿÿÿ
+M
+java:S1444+"2Make this "public static listreservas" field final(Òıîóşÿÿÿÿ
+M
+java:S1444,"7Make this "public static listreservasAcept" field final(‘ï¬â
+Q
+java:S1444-"6Make this "public static listreservasPend" field final(‰£ÇŠøÿÿÿÿ
+M
+java:S1444."2Make this "public static ListReservas" field final(Ó¾¦ùÿÿÿÿ

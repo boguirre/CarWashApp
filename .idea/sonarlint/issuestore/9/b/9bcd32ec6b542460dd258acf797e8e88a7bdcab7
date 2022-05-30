@@ -1,0 +1,19 @@
+
+J
+java:S3740%"/Provide the parametrized type for this generic.(×ğØÌüÿÿÿÿ
+_
+java:S1659""IDeclare "textApellido" and all following declarations on a separate line.(Õ¼«­
+R
+java:S1874M"6Remove this use of "ProgressDialog"; it is deprecated.(•’è8Ò’šÿ/
+R
+java:S1874M"6Remove this use of "ProgressDialog"; it is deprecated.(•’è8Ó’šÿ/
+T
+java:S1874N"2Remove this use of "setMessage"; it is deprecated.(Òí‘šÿÿÿÿÿ8Ô’šÿ/
+i
+java:S11927"GDefine a constant instead of duplicating this literal "codcli" 3 times.(ı©¶´ıÿÿÿÿ8…â’ÿ/
+C
+java:S16049"(Make this anonymous inner class a lambda(ÒÉõóûÿÿÿÿ
+E
+java:S1604U"(Make this anonymous inner class a lambda(’ÀÈœ8è’šÿ/
+J
+java:S1604\"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ8é’šÿ/

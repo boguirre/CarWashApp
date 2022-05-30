@@ -1,0 +1,19 @@
+
+_
+java:S1659"IDeclare "textApellido" and all following declarations on a separate line.(Õ¼«­
+t
+java:S37768"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ûî¾‚ıÿÿÿÿ8¨Ÿÿ/
+R
+java:S1874C"6Remove this use of "ProgressDialog"; it is deprecated.(•’è8µŸÿ/
+R
+java:S1874C"6Remove this use of "ProgressDialog"; it is deprecated.(•’è8¸Ÿÿ/
+O
+java:S1874D"2Remove this use of "setMessage"; it is deprecated.(Êü¹¡8ÀŸÿ/
+j
+java:S5998†"LRefactor this repetition that can lead to a stack overflow for large inputs.(€¶¥Ş8Íê¶ÿ/
+=
+java:S16040"(Make this anonymous inner class a lambda(¤Í«1
+E
+java:S1604J"(Make this anonymous inner class a lambda(’ÀÈœ8õ¡©ÿ/
+J
+java:S1604Z"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ8÷¡©ÿ/
